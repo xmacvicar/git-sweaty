@@ -11841,5 +11841,18 @@
     "start_date_local": "2026-05-23T17:04:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 21453.9,
+    "elevation_gain": 37.0,
+    "id": "18654931117",
+    "moving_time": 2846.0,
+    "name": "Squash and bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T19:07:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
