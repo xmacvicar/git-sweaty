@@ -11893,5 +11893,18 @@
     "start_date_local": "2026-05-30T16:15:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 62189.3,
+    "elevation_gain": 183.0,
+    "id": "18735654713",
+    "moving_time": 8227.0,
+    "name": "Apple weather lies.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T14:59:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
