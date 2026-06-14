@@ -11971,5 +11971,18 @@
     "start_date_local": "2026-06-08T18:33:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 47554.7,
+    "elevation_gain": 159.0,
+    "id": "18911534118",
+    "moving_time": 5831.0,
+    "name": "Back from Chicago",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T11:59:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
