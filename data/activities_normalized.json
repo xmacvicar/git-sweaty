@@ -11997,5 +11997,18 @@
     "start_date_local": "2026-06-15T17:13:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 75719.2,
+    "elevation_gain": 210.0,
+    "id": "18951001818",
+    "moving_time": 8819.0,
+    "name": "One of my better rides",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T17:06:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
