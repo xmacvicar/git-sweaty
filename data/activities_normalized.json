@@ -12062,5 +12062,18 @@
     "start_date_local": "2026-06-26T17:16:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 55929.9,
+    "elevation_gain": 115.0,
+    "id": "19090092189",
+    "moving_time": 7341.0,
+    "name": "Relaxing Day",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T13:48:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
