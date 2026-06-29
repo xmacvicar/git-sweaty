@@ -12075,5 +12075,18 @@
     "start_date_local": "2026-06-27T13:48:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 117303.0,
+    "elevation_gain": 345.0,
+    "id": "19102974503",
+    "moving_time": 14633.0,
+    "name": "OKA ferry closed",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T11:04:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
